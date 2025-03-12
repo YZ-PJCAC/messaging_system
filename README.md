@@ -1,6 +1,6 @@
 # messaging system
 
-## all not function.
+## all not function. sorry i think it is not neccessary to 
 
 1. postman not tested yet
 2. React.js is not functional
